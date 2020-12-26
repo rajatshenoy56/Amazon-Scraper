@@ -33,7 +33,6 @@ scrapyd==1.2.1
 scrapyd-client==1.2.0a1
 service-identity==18.1.0
 six==1.15.0
-Twisted == 20.3.0 
 typing==3.7.4.3
 urllib3==1.26.2
 w3lib==1.22.0
