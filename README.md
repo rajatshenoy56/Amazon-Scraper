@@ -13,4 +13,6 @@ Steps:
 
 4. In another terminal deploy your spider with "scrapyd-deploy local"
 
+5. Setup ElasticSearch and Kibana
+
 5. cd .. and python script.py
